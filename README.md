@@ -9,16 +9,16 @@ The dataset is a compilation of poetries written by numerous poets
 present in the form of a text file.
 
 
-## Techstack
-   - Python
-   - NLP
-   - Keras
-   - Machine Learning
 
-
-## Following are the file references :
+#file references :
 
 1. Dataset : master_new.txt 
 2. Model Development Code : model_development.ipynb 
 
+#used Software and technology
+
+   - Python
+   - NLP
+   - Keras
+   - Machine Learning
 
